@@ -2,6 +2,10 @@
 
 # Define a function `add_three` that takes a single argument and
 # returns a value 3 greater than the input
+add_three <- function(value) {
+  value + 3
+  # return the result
+}
 
 
 # Create a variable `ten` that is the result of passing 7 to your `add_three` 
